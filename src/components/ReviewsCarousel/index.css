@@ -1,0 +1,23 @@
+/* Write your code here */
+.review-app-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.review-app-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
